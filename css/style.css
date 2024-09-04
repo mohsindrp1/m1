@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+ol{
+    text-align: center;
+}
+
+
+.one{
+    color: blueviolet;
+    font-size: 30px;
+    text-align: center;
+}
+#first{
+    color: brown;
+}
+#second{
+    color: darksalmon;
+}
+#third{
+    color: chartreuse;
+}
+.fouth{
+    color: darkslategray;
+}
+.fifth{
+    color: #fc00ef;
+
+}
+.main{
+    /* background-color: black;
+    color: white; */
+    /* height: 50px;
+    width: 400px; */
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
